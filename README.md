@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Charles Noah</h1>
 <h3 align="center">A passionate full-stack web developer from the Philippines.</h3>
